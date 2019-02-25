@@ -1,4 +1,0 @@
-Sami sabloni su verovatno bolje objasnjeni u folderu sa sablonima konkretno na primerima nego na vezbama.
-Ti zadaci nisu radjeni na vezbama, vec sam ih ja nalazila sa prethodnih rokova.
-
-Ako ima nekih gresaka, a verovatno ima, pisite da ispravim.
